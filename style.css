@@ -20,6 +20,7 @@ section {
 .half-width {
     width: 50%;
     padding-left: 5%;
+    text-align: justify;
 }
 
 .half-width img {
