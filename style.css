@@ -58,3 +58,11 @@ section {
 .half-width p {
     margin-right: 100px;
 }
+
+.dreambig {
+    background-image: url(images/developer.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: center;
+    background-size: 1.8cm;
+}
