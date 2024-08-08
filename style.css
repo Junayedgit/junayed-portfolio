@@ -43,4 +43,7 @@ section {
 .top-banner {
     background-image: url(images/developer.png);
     background-repeat: no-repeat;
+    background-size: 1.5cm;
+    background-position: 0%;
+    background-position-x: 10px;
 }
