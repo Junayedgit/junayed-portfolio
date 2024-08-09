@@ -65,4 +65,44 @@ h1 {
     background-position: right;
     background-position-y: center;
     background-size: 1.8cm;
+    margin-bottom: 100px;
+}
+
+.experiences-area {
+    background-image: url(images/developer.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-y: center;
+    background-size: 1.8cm;
+}
+
+.experiences-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 50px;
+    border-radius: 20px;
+
+    padding: 30px;
+    text-align: justify;
+    box-shadow: 10px 10px 40px gray;
+}
+
+#exp {
+    text-align: center;
+}
+
+#full {
+    border-left: 7px solid blueviolet;
+
+}
+
+#baby {
+    border-left: 7px solid red;
+
+}
+
+footer p {
+    text-align: center;
+    margin-bottom: 10px;
 }
